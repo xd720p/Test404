@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test404</string>
+    <string name="point" translatable="false">Point</string>
+    <string name="point_broadcast" translatable="false">PointBoradcast</string>
+</resources>
